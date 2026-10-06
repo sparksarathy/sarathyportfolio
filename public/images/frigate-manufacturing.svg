@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#faf9ff"/>
+      <stop offset="100%" stop-color="#f3f1fa"/>
+    </linearGradient>
+    <linearGradient id="purpleBtn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#55308d"/>
+      <stop offset="100%" stop-color="#402075"/>
+    </linearGradient>
+    <linearGradient id="activeCard" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4d2882"/>
+      <stop offset="100%" stop-color="#3b1d68"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <rect width="1800" height="900" fill="url(#bgGrad)"/>
+  <rect width="1800" height="76" fill="#ffffff"/>
+  <line x1="0" y1="76" x2="1800" y2="76" stroke="#f0eff5" stroke-width="1"/>
+
+  <g transform="translate(60, 22)">
+    <text font-family="-apple-system, sans-serif" font-weight="900" font-size="28" fill="#1b1c3a" letter-spacing="-0.5">FR<tspan fill="#4d2882">!</tspan>GATE<tspan font-size="12" dy="-10">®</tspan></text>
+    <text y="24" font-family="-apple-system, sans-serif" font-weight="600" font-size="7" fill="#71728e" letter-spacing="1.5">MANUFACTURING MADE EASY</text>
+  </g>
+
+  <g transform="translate(400, 44)" font-family="-apple-system, sans-serif" font-size="15" font-weight="600" fill="#2d2d46">
+    <text x="0" y="0">Products <tspan font-size="11" fill="#71728e">⌵</tspan></text>
+    <text x="140" y="0">Facilities <tspan font-size="11" fill="#71728e">⌵</tspan></text>
+    <text x="280" y="0">Capabilities <tspan font-size="11" fill="#71728e">⌵</tspan></text>
+    <text x="440" y="0">Industries <tspan font-size="11" fill="#71728e">⌵</tspan></text>
+    <text x="590" y="0">Case Studies <tspan font-size="11" fill="#71728e">⌵</tspan></text>
+  </g>
+
+  <g transform="translate(1480, 26)">
+    <circle cx="16" cy="18" r="7" fill="none" stroke="#2d2d46" stroke-width="2"/>
+    <line x1="21" y1="23" x2="27" y2="29" stroke="#2d2d46" stroke-width="2"/>
+    <rect x="58" y="0" width="76" height="38" rx="6" fill="#3b2061"/>
+    <text x="96" y="24" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="600" font-size="13" fill="#ffffff">Login</text>
+    <rect x="150" y="0" width="110" height="38" rx="6" fill="#4d2882"/>
+    <text x="205" y="24" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="600" font-size="13" fill="#ffffff">Get Quote</text>
+  </g>
+
+  <g transform="translate(900, 168)" text-anchor="middle">
+    <text font-family="-apple-system, sans-serif" font-weight="800" font-size="48" fill="#261c47" letter-spacing="-1">One Partner. From Engineering to Production.</text>
+    <text y="42" font-family="-apple-system, sans-serif" font-weight="500" font-size="17" fill="#58546e">Global Engineering &amp; Manufacturing Partner for Precision Products.</text>
+    <g transform="translate(-160, 72)">
+      <rect width="320" height="46" rx="8" fill="url(#purpleBtn)"/>
+      <text x="160" y="29" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="600" font-size="15" fill="#ffffff">Explore our cloud factory <tspan font-size="16">⌲</tspan></text>
+    </g>
+  </g>
+
+  <g transform="translate(240, 360)">
+    <g transform="translate(0, 0)">
+      <circle cx="110" cy="20" r="28" fill="#f4effc"/>
+      <text x="75" y="26" font-family="-apple-system, sans-serif" font-weight="800" font-size="20" fill="#261c47">1</text>
+      <path d="M 103,15 L 110,12 L 117,15 L 117,23 C 117,27 110,31 110,31 C 110,31 103,27 103,23 Z" fill="none" stroke="#4d2882" stroke-width="2"/>
+      <path d="M 107,21 L 109,23 L 114,18" fill="none" stroke="#4d2882" stroke-width="2"/>
+      <text x="110" y="68" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="14" fill="#261c47">Production-grade audited</text>
+      <text x="110" y="86" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="14" fill="#261c47">manufacturers</text>
+    </g>
+    <g transform="translate(360, 0)">
+      <circle cx="110" cy="20" r="28" fill="#f4effc"/>
+      <text x="75" y="26" font-family="-apple-system, sans-serif" font-weight="800" font-size="20" fill="#261c47">2</text>
+      <rect x="103" y="12" width="14" height="17" rx="2" fill="none" stroke="#4d2882" stroke-width="2"/>
+      <text x="110" y="68" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="14" fill="#261c47">Fix the design through DFM</text>
+    </g>
+    <g transform="translate(720, 0)">
+      <circle cx="110" cy="20" r="28" fill="#f4effc"/>
+      <text x="75" y="26" font-family="-apple-system, sans-serif" font-weight="800" font-size="20" fill="#261c47">3</text>
+      <circle cx="109" cy="19" r="6" fill="none" stroke="#4d2882" stroke-width="2"/>
+      <line x1="113" y1="23" x2="117" y2="27" stroke="#4d2882" stroke-width="2"/>
+      <text x="110" y="68" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="14" fill="#261c47">Manage quality at the source</text>
+    </g>
+    <g transform="translate(1080, 0)">
+      <circle cx="110" cy="20" r="28" fill="#f4effc"/>
+      <text x="75" y="26" font-family="-apple-system, sans-serif" font-weight="800" font-size="20" fill="#261c47">4</text>
+      <rect x="102" y="15" width="12" height="10" fill="none" stroke="#4d2882" stroke-width="2"/>
+      <path d="M 114,18 L 118,18 L 120,22 L 120,25 L 114,25 Z" fill="none" stroke="#4d2882" stroke-width="2"/>
+      <circle cx="106" cy="26" r="2" fill="#4d2882"/>
+      <circle cx="117" cy="26" r="2" fill="#4d2882"/>
+      <text x="110" y="68" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="14" fill="#261c47">Deliver on time</text>
+    </g>
+  </g>
+
+  <g transform="translate(900, 515)" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="14" font-weight="700" fill="#261c47" letter-spacing="1">
+    <text>⊙ ISO 9001    ⊙ AS9100D</text>
+  </g>
+
+  <g transform="translate(140, 565)">
+    <g transform="translate(0, 0)">
+      <rect width="470" height="92" rx="10" fill="url(#activeCard)" filter="url(#cardShadow)"/>
+      <rect x="16" y="18" width="56" height="56" rx="8" fill="#6739a8"/>
+      <rect x="30" y="32" width="28" height="28" rx="4" fill="none" stroke="#ffffff" stroke-width="2"/>
+      <text x="88" y="44" font-family="-apple-system, sans-serif" font-weight="700" font-size="16" fill="#ffffff">BESS Container Assembly (10 ft)</text>
+      <text x="88" y="65" font-family="-apple-system, sans-serif" font-weight="500" font-size="13" fill="#d9cceb">Up to 100 kW | Ready to Install</text>
+
+      <g transform="translate(0, 106)">
+        <rect width="470" height="88" rx="10" fill="#ffffff" stroke="#edeaf2" stroke-width="1" filter="url(#cardShadow)"/>
+        <rect x="16" y="16" width="56" height="56" rx="8" fill="#f4effc"/>
+        <rect x="30" y="30" width="28" height="28" rx="4" fill="none" stroke="#4d2882" stroke-width="2"/>
+        <text x="88" y="42" font-family="-apple-system, sans-serif" font-weight="700" font-size="16" fill="#261c47">Solar Inverter Assembly</text>
+        <text x="88" y="63" font-family="-apple-system, sans-serif" font-weight="500" font-size="13" fill="#756f8a">Up to 10 kW | Weather-Ready</text>
+      </g>
+
+      <g transform="translate(0, 208)">
+        <rect width="470" height="88" rx="10" fill="#ffffff" stroke="#edeaf2" stroke-width="1" filter="url(#cardShadow)"/>
+        <rect x="16" y="16" width="56" height="56" rx="8" fill="#f4effc"/>
+        <rect x="30" y="30" width="28" height="28" rx="4" fill="none" stroke="#4d2882" stroke-width="2"/>
+        <text x="88" y="42" font-family="-apple-system, sans-serif" font-weight="700" font-size="16" fill="#261c47">Trunnion Pins</text>
+        <text x="88" y="63" font-family="-apple-system, sans-serif" font-weight="500" font-size="13" fill="#756f8a">Landing Gear Pivots | Heavy Load Support</text>
+      </g>
+    </g>
+
+    <g transform="translate(490, 0)">
+      <rect width="480" height="300" rx="12" fill="#ffffff" stroke="#edeaf2" stroke-width="1"/>
+      <g transform="translate(80, 20)">
+        <rect x="40" y="30" width="240" height="250" rx="4" fill="#d1d5db" stroke="#9ca3af" stroke-width="2"/>
+        <rect x="50" y="40" width="220" height="230" fill="#e5e7eb"/>
+        <line x1="160" y1="40" x2="160" y2="270" stroke="#9ca3af" stroke-width="2"/>
+        <rect x="145" y="140" width="6" height="30" rx="2" fill="#374151"/>
+        <rect x="169" y="140" width="6" height="30" rx="2" fill="#374151"/>
+        <line x1="70" y1="65" x2="135" y2="65" stroke="#9ca3af" stroke-width="3"/>
+        <line x1="70" y1="75" x2="135" y2="75" stroke="#9ca3af" stroke-width="3"/>
+        <line x1="70" y1="85" x2="135" y2="85" stroke="#9ca3af" stroke-width="3"/>
+        <line x1="185" y1="65" x2="250" y2="65" stroke="#9ca3af" stroke-width="3"/>
+        <line x1="185" y1="75" x2="250" y2="75" stroke="#9ca3af" stroke-width="3"/>
+        <line x1="185" y1="85" x2="250" y2="85" stroke="#9ca3af" stroke-width="3"/>
+        <circle cx="70" cy="115" r="3" fill="#ef4444"/>
+        <circle cx="85" cy="115" r="3" fill="#eab308"/>
+        <circle cx="100" cy="115" r="3" fill="#22c55e"/>
+        <rect x="70" y="18" width="16" height="12" rx="2" fill="#9ca3af"/>
+        <rect x="234" y="18" width="16" height="12" rx="2" fill="#9ca3af"/>
+      </g>
+    </g>
+
+    <g transform="translate(990, 0)">
+      <rect width="490" height="300" rx="12" fill="#ffffff" stroke="#edeaf2" stroke-width="1" filter="url(#cardShadow)"/>
+      <text x="24" y="38" font-family="-apple-system, sans-serif" font-weight="800" font-size="20" fill="#261c47">Built to Print</text>
+      <text x="24" y="60" font-family="-apple-system, sans-serif" font-weight="500" font-size="13" fill="#756f8a">Your drawing. Our precision engineering.</text>
+
+      <g transform="translate(20, 80)">
+        <g transform="translate(0, 0)">
+          <rect width="138" height="190" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+          <rect x="1" y="1" width="136" height="140" rx="7" fill="#e0f2fe"/>
+          <path d="M 68,40 L 72,80 L 110,95 L 110,105 L 72,100 L 72,125 L 85,135 L 85,142 L 68,138 L 51,142 L 51,135 L 64,125 L 64,100 L 26,105 L 26,95 L 64,80 Z" fill="#3b82f6"/>
+          <rect x="0" y="148" width="138" height="42" fill="#3b2061" rx="6"/>
+          <text x="69" y="174" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="13" fill="#ffffff">Aerospace</text>
+        </g>
+        <g transform="translate(156, 0)">
+          <rect width="138" height="190" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+          <rect x="1" y="1" width="136" height="140" rx="7" fill="#fef3c7"/>
+          <circle cx="105" cy="40" r="14" fill="#f59e0b"/>
+          <line x1="50" y1="55" x2="50" y2="130" stroke="#64748b" stroke-width="3"/>
+          <circle cx="50" cy="55" r="4" fill="#475569"/>
+          <polygon points="75,90 125,90 132,130 68,130" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1"/>
+          <rect x="0" y="148" width="138" height="42" fill="#3b2061" rx="6"/>
+          <text x="69" y="174" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="13" fill="#ffffff">Energy</text>
+        </g>
+        <g transform="translate(312, 0)">
+          <rect width="138" height="190" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+          <rect x="1" y="1" width="136" height="140" rx="7" fill="#f1f5f9"/>
+          <rect x="25" y="75" width="88" height="45" rx="6" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
+          <circle cx="45" cy="120" r="8" fill="#0f172a"/>
+          <circle cx="93" cy="120" r="8" fill="#0f172a"/>
+          <rect x="35" y="90" width="68" height="12" rx="2" fill="#f97316"/>
+          <rect x="0" y="148" width="138" height="42" fill="#3b2061" rx="6"/>
+          <text x="69" y="174" text-anchor="middle" font-family="-apple-system, sans-serif" font-weight="700" font-size="13" fill="#ffffff">Robotics</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(1765, 410)">
+    <rect width="35" height="180" rx="6" fill="#0a0a0f"/>
+    <path d="M 12,30 L 22,30 M 17,25 L 22,30 L 17,35" stroke="#ffffff" stroke-width="2" fill="none"/>
+    <rect x="0" y="48" width="35" height="45" fill="#4d2882"/>
+    <rect x="9" y="62" width="17" height="12" rx="2" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <rect x="0" y="93" width="35" height="45" fill="#6d46aa"/>
+    <rect x="11" y="107" width="13" height="16" rx="2" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="17" cy="180" r="16" fill="#0284c7"/>
+    <circle cx="13" cy="178" r="2" fill="#ffffff"/>
+    <circle cx="21" cy="178" r="2" fill="#ffffff"/>
+  </g>
+</svg>
